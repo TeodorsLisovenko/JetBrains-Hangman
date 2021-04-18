@@ -1,0 +1,1 @@
+My attempt for JetBrains Academies Hangman project.
